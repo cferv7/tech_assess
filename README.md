@@ -1,7 +1,3 @@
-# README
-
-
-
 ## Technical Assessment
 
 This repository contains files in regards to a technical assessment given.
