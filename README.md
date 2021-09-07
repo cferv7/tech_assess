@@ -15,6 +15,6 @@ This repository contains files in regards to a technical assessment given.
 
 3. In the Python file titled *'file_converter_yaml'* contains coding solution to Question #5.
 
-##### Images
+#### Images
 
 The PNG files are images of the table corresponding to the respective SQL question.
